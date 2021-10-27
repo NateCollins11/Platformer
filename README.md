@@ -1,4 +1,5 @@
 # Platformer
-Basic JS platformer game (2020). Using canvas with no engine
+Hosted at: https://natecollins11.github.io/Platformer/template.html
 
-To play, download files and open template.html in browser
+(2020) Basic JS platformer game. Using canvas with no engine
+
